@@ -1,0 +1,323 @@
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\HotelCloudBedSystem.deps.json
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\HotelCloudBedSystem.runtimeconfig.json
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\HotelCloudBedSystem.runtimeconfig.dev.json
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\HotelCloudBedSystem.dll
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.RazorAssemblyInfo.cache
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.RazorAssemblyInfo.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.AssemblyInfoInputs.cache
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.AssemblyInfo.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.TagHelpers.input.cache
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.TagHelpers.output.cache
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.RazorCoreGenerate.cache
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\AdminNavBarProfile\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\AdminSideBarProfile\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\DashBoardCount\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.RazorTargetAssemblyInfo.cache
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.RazorTargetAssemblyInfo.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\HotelCloudBedSystem.pdb
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\HotelCloudBedSystem.Views.dll
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\HotelCloudBedSystem.Views.pdb
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.Views.pdb
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.dll
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.pdb
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.csproj.CopyComplete
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AdminProfile\Index.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AppRole\Index.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AppRole\RoleCreate.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AppUserRole\AssignRole.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AppUser\AddAppUser.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AppUser\AllUserList.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\UpdateProfile\_UpdateProfilePicture.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\UserList\Manager.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\UserList\NotinRole.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\UserList\ApplicationUser.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\PieChart\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\ProgressiveBar\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\SalesChart\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.csprojAssemblyReference.cache
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\bower.json
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\libman.json
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\User\Views\Shared\_Layout.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\User\Views\_ViewImports.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\User\Views\_ViewStart.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\User\Views\Home\Index.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\UserProfile\Index.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AppUser\_UpdateUser.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\MessageBox\Success.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\MessageBox\Failed.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\PageOptions.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Pages.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\UserSearchByRole\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AppUser\DeleteView.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\SearchByEmail\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Hotel\_AddHotel.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Hotel\Index.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\HotelSearchByName\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Hotel\HotelDetailList.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\ManagerSearchByName\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\AppUserSearchByName\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\_Layout.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\_ViewImports.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\_ViewStart.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Home\Index.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\Components\ManagerNabarProfile\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\Components\ManagerSideBarProfile\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\ManagerProfile\Index.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\HotelList\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelProfile\Index.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\Components\ManagerDashBoardCount\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelFloors\Index.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelRooms\Index.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\PageOptions.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\Pages.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelRooms\BookedRooms.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelRooms\UnBookedRooms.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Reservation\Index.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\Components\FloorList\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\Components\HotelRoom\Default.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Profile\_UpdateProfilePicture.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelUpdate\Index.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AppRole\RoleUpdate.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelFloors\Create.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelFloors\Update.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelRooms\Create.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelRooms\Update.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.csproj.CoreCompileInputs.cache
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.genruntimeconfig.cache
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\ManagerRegisteration\Register.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\HotelRegisteration\HotelRegister.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\AddingHotelMessage\Message.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\NotAcceptedAccountMsg\AcceptMessage.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AccountRequest\Index.cshtml.g.cs
+D:\Web Application\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AccountRequest\Detail.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\appsettings.json
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\bower.json
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\libman.json
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\HotelCloudBedSystem.deps.json
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\HotelCloudBedSystem.runtimeconfig.json
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\HotelCloudBedSystem.runtimeconfig.dev.json
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\HotelCloudBedSystem.dll
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\HotelCloudBedSystem.pdb
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.AssemblyInfoInputs.cache
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.AssemblyInfo.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.dll
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.pdb
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.genruntimeconfig.cache
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.RazorAssemblyInfo.cache
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.RazorAssemblyInfo.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.TagHelpers.input.cache
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.TagHelpers.output.cache
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.RazorCoreGenerate.cache
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AccountRequest\Detail.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AccountRequest\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AdminProfile\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AppRole\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AppRole\RoleCreate.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AppRole\RoleUpdate.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AppUserRole\AssignRole.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AppUser\AddAppUser.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AppUser\AllUserList.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AppUser\DeleteView.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AppUser\_UpdateUser.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Hotel\HotelDetailList.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Hotel\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Hotel\_AddHotel.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\MessageBox\Failed.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\MessageBox\Success.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\AdminNavBarProfile\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\AdminSideBarProfile\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\AppUserSearchByName\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\DashBoardCount\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\HotelList\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\HotelSearchByName\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\ManagerSearchByName\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\PieChart\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\ProgressiveBar\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\SalesChart\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\SearchByEmail\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Components\UserSearchByRole\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\PageOptions.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Pages.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\UpdateProfile\_UpdateProfilePicture.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\UserList\ApplicationUser.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\UserList\Manager.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\UserList\NotinRole.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\UserProfile\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Home\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelFloors\Create.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelFloors\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelFloors\Update.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelProfile\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelRooms\BookedRooms.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelRooms\Create.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelRooms\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelRooms\UnBookedRooms.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelRooms\Update.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelUpdate\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\ManagerProfile\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Profile\_UpdateProfilePicture.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Reservation\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\Components\FloorList\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\Components\HotelRoom\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\Components\ManagerDashBoardCount\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\Components\ManagerNabarProfile\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\Components\ManagerSideBarProfile\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\PageOptions.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\Pages.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\_Layout.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\_ViewImports.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\_ViewStart.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\User\Views\Home\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\User\Views\Shared\_Layout.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\User\Views\_ViewImports.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\User\Views\_ViewStart.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\AddingHotelMessage\Message.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\HotelRegisteration\HotelRegister.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\ManagerRegisteration\Register.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\NotAcceptedAccountMsg\AcceptMessage.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.RazorTargetAssemblyInfo.cache
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.RazorTargetAssemblyInfo.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\HotelCloudBedSystem.Views.dll
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\bin\Debug\netcoreapp2.2\HotelCloudBedSystem.Views.pdb
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.Views.pdb
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.csproj.CopyComplete
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\RequestAccept\Accept.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelProfilePictureUpload\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\HotelSearch\Search.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\MainHotelSearch\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\MainLogo\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\Components\RoomType\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\AvailableRoom\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\HotelProfile\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\User\Views\Home\_UpdateProfilePic.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\SummerHotel\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\HotelReservation\Hotelreservtion.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\HotelDetail\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\Components\HotelImages\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\UploadHotelImage\_UploadImage.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelRoomProfile\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\Shared\Components\HotelRoomImages\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\HotelRoomProfilePictureUpload\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Manager\Views\UploadHotelRoomImage\_UploadImage.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.csprojAssemblyReference.cache
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\HotelImages\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\HotelReview\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\HotelReview\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\HotelRoomImages\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\RoomFacility\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\MultiHotelMap\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\SingleHotelMap\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\HotelFiltering\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\RoomFiltering\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\ViewRoomForm\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\WinterHotel\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\HotelCloudBedSystem.csproj.CoreCompileInputs.cache
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\HotelPayment\Payment.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\User\Views\UserActiveReservation\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\User\Views\UserReservationHistory\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\User\Views\UserActiveReservationDetail\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\User\Views\HotelReview\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\User\Views\RoomReview\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\User\Views\AddHotelReview\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Areas\User\Views\AddRoomReview\Index.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\RoomReservationButtonForm\Default.cshtml.g.cs
+D:\HiaerNetdata\FYP\HotelCloudBedSystem\HotelCloudBedSystem\obj\Debug\netcoreapp2.2\Razor\Views\HotelPayment\SuccessfullpyamentMessage.cshtml.g.cs
