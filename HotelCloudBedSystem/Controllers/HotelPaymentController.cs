@@ -30,7 +30,7 @@ namespace HotelCloudBedSystem.Controllers
         {
             return View();
         }
-
+        
         [HttpGet]
         public IActionResult Payment(int id)
         {

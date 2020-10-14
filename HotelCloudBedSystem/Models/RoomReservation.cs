@@ -27,6 +27,8 @@ namespace HotelCloudBedSystem.Models
         public bool IsPaymentSuccessfull { get; set; }
         public bool IsActive { get; set; }
 
+        public AppUser  AppUser { get; set; }
+
 
 
     }
